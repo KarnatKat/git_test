@@ -6,5 +6,8 @@ def joke():
 
 introduce()
 
+def shout():
+    print('GIIIIIIIIIIITT')
+
 def add(a,b):
     return a+b
